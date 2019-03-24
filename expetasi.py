@@ -12,7 +12,7 @@ def expetasi():
 		pilih = input("Gak pilih besok mati > ")
 		if pilih ==1:
 			os.system('clear')
-			print(white),("jangan lupa untuk subscribe dan klik lonceng")
+			print("~Jangan lupa untuk subscribe dan klik lonceng")
 			time.sleep(2)
 			os.system("termux-open-url https://www.youtube.com/channel/UCnV18haS6MvRkqYbRMYm7Zg")
 		elif pilih ==2:
